@@ -34,6 +34,10 @@ class Blockchain {
         this.chain.push(newBlock);
 
     }
+
+    checkValid() {
+        // TO-DO
+    }
 }
 
 let uwuCoin = new Blockchain();
